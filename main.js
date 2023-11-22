@@ -2,13 +2,13 @@ let res = document.getElementById('result');
             let res2 = document.getElementById("result2");
             let res3 = document.getElementById("result3");
             let res4 = document.getElementById("result4");
-            let mpg = document.getElementById('mpg');
+            let lkm = document.getElementById('lkm');
             let dist = document.getElementById('dist');
             let trip = document.getElementById('trips');
 
 
 function calcCO2() {
-    let x = mpg.value;
+    let x = lkm.value;
     let y = dist.value;
     let z = trips.value;
     let calc4 = (8.8/x)*1000;
