@@ -5,6 +5,3 @@ Current projects being developed:
 - HTML/CSS/JS carbon footprint calculator from a template, just out of curiosity.
 - Something to do with Python most likely
 - TBA
-
-
-- Matias
