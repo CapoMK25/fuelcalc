@@ -1,10 +1,10 @@
 let res = document.getElementById('result');
-            let res2 = document.getElementById("result2");
-            let res3 = document.getElementById("result3");
-            let res4 = document.getElementById("result4");
-            let lkm = document.getElementById('lkm');
-            let dist = document.getElementById('dist');
-            let trip = document.getElementById('trips');
+let res2 = document.getElementById("result2");
+let res3 = document.getElementById("result3");
+let res4 = document.getElementById("result4");
+let lkm = document.getElementById('lkm');
+let dist = document.getElementById('dist');
+let trip = document.getElementById('trips');
 
 
 function calcCO2() {
